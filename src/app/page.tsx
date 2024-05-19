@@ -3,8 +3,8 @@ import { CollaborativeApp } from "./CollaborativeApp";
 
 export default function Home() {
   return (
-    <main>
-      <h1 className="text-2xl text-white">Hello</h1>
+    <main className="h-svh text-center flex justify-center items-center">
+      <h1 className="text-2xl text-white">UI Live Design Tool</h1>
     </main>
   );
 }
